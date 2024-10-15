@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi, I’m [Anamaya Saraogi], a BCA (Honours) in Data Science student at **Symbiosis Institute of Computer Studies and Research, Pune**. I am passionate about technology, data science, and developing solutions through code. My learning journey spans across a variety of programming languages and frameworks, with a focus on building practical, real-world applications.
+Hi, I’m Anamaya Saraogi, a BCA (Honours) in Data Science student at **Symbiosis Institute of Computer Studies and Research, Pune**. I am passionate about technology, data science, and developing solutions through code. My learning journey spans across a variety of programming languages and frameworks, with a focus on building practical, real-world applications.
 
 ## About Me
 
