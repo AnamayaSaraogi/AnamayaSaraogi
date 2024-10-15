@@ -30,7 +30,7 @@ Here are a few of the projects I’ve worked on:
 
 ## Let's Connect! 🤝
 
-- 💼 LinkedIn: [Anamaya Saraogi]([https://linkedin.com/in/your-linkedin](https://linkedin.com/in/anamaya-saraogi-904b0924b/))
+- 💼 LinkedIn: [Anamaya Saraogi](https://linkedin.com/in/anamaya-saraogi-904b0924b/)
 - 🌐 GitHub: [AnamayaSaraogi](https://github.com/AnamayaSaraogi)
 
 Feel free to reach out if you'd like to collaborate or discuss tech, data science, or any exciting opportunities!
