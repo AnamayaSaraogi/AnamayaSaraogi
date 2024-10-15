@@ -19,7 +19,7 @@ Hi, I’m [Anamaya Saraogi], a BCA (Honours) in Data Science student at **Symbio
 
 Here are a few of the projects I’ve worked on:
 
-- **[Online Bookstore (Java EE)](https://github.com/your-username/Online-Bookstore-Java-EE)**: An online bookstore web application that allows users to browse, search, and purchase books.
+- **[Online Bookstore (Java EE)](https://github.com/AnamayaSaraogi/Online-Bookstore-Java-EE)**: An online bookstore web application that allows users to browse, search, and purchase books.
   
 - **[Other Projects]**: More to come as I continue to expand my knowledge and apply my skills to real-world challenges.
 
