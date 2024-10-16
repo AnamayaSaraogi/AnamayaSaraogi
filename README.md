@@ -21,9 +21,8 @@ Here are a few of the projects I’ve worked on:
 
 - **[Online Bookstore (Java EE)](https://github.com/AnamayaSaraogi/Online-Bookstore-Java-EE-)**: An online bookstore web application that allows users to browse, search, and purchase books.
 - **[NoteHub (Java EE)](https://github.com/AnamayaSaraogi/NoteHub)**: A collaborative web platform developed using Java EE that enables users to create, share, and organize notes efficiently.
+- **[CloudTen (Django)](https://github.com/AnamayaSaraogi/CloudTen)**: A web application developed using Django that provides a streamlined platform for users to schedule appointments with doctors and book lab tests.
   
-- **[Other Projects]**: More to come as I continue to expand my knowledge and apply my skills to real-world challenges.
-
 ## What I’m Currently Learning 🚀
 
 - **Java EE**: Expanding my understanding of enterprise-level Java applications.
